@@ -55,7 +55,7 @@ public class MainWindow extends JFrame implements WindowListener, ActionListener
 						+ "\n	- the sorted audio files " + "\n	- the full album files with their .cue files "
 						+ "\n	- the audio files that can't be sorted will be moved to the following path :"
 						+ "\n			chosen output folder/Unknown Artist/Unknown Album "
-						+ "\n\n	You can remove a selected folder from input folders by selecting it and pressing the 'del' key."
+						+ "\n\n	You can remove folders from chosen input folders by selecting them and pressing the 'del' key."
 						+ "\n\n	Once you sorted your folders you can use the clean button which does the following :"
 						+ "\n	- deletes empty folders" + "\n	- deletes corrupt/incomplete audio files"
 						+ "\n	- moves non-audio files to \"other files\" folder"
