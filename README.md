@@ -14,7 +14,7 @@ This easy to use program is for every music lover who likes to keep their music 
 	- the audio files that can't be sorted will be moved to the following path :
 			chosen output folder/Unknown Artist/Unknown Album 
 
-	You can remove a selected folder from input folders by selecting it and pressing the 'del' key.
+	You can remove folders from the chosen input folders by selecting them and pressing the 'del' key.
 
 	Once you sorted your folders you can use the clean button which does the following :
 	- deletes empty folders
