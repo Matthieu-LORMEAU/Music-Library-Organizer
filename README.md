@@ -6,7 +6,7 @@ Steps to use :
 
 1) Make sure your java is updated by downloading and installing from this link : 
 			https://www.java.com/en/download/
-2) Download MusicLibraryOrganizer.exe and run it. Enjoy :D you can report bugs, give me a feedback, tell me what other features i should include by sending me an email at : matthieulormeau@hotmail.com
+2) Download Music Library Organizer.exe and run it. Enjoy :D you can report bugs, give me a feedback, tell me what other features i should include by sending me an email at : matthieulormeau@hotmail.com
 
 Features of the program : 
 
