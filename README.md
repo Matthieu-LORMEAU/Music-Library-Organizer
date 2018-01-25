@@ -21,6 +21,7 @@ the following type of files into different folders :
 - the sorted audio files 
 - the full album files with their .cue files 
 - the audio files that can't be sorted will be moved to the following path :
+		
 		chosen output folder/Unknown Artist/Unknown Album 
 
 You can remove folders from the chosen input folders by selecting them and pressing the 'del' key.
