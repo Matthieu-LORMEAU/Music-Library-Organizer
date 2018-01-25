@@ -11,6 +11,7 @@ Steps to use :
 Features of the program : 
 
 It will rename and move the audio files according this standard path :
+		
 		chosen output folder/artist name/album name/#-name of the song
 
 In addition the "start sorting" button will delete duplicates of exact same songs.
